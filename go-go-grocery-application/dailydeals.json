@@ -20,6 +20,11 @@
 			"item": "spinach",
 			"price": 2.99,
 			"image": "spinach.jpg"
+		}, 
+		{
+			"item": "apples",
+			"price": 2.00,
+			"image": "apples.jpg"
 		}
 	]
 }
