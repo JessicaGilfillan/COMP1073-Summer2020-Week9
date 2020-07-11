@@ -1,0 +1,19 @@
+{
+	"dailyDeals": [
+		{
+			"name": "oranges",
+			"price": 4.07,
+			"image": "bacon-scented-mustache.jpg"
+		},
+		{
+			"name": "broccoli",
+			"price": 3.95,
+			"image": "dill-pickle-lip-balm.jpg"
+		},
+		{
+			"name": "eggs",
+			"price": 1.99,
+			"image": "dancing-with-cats.jpg"
+		}
+	]
+}
