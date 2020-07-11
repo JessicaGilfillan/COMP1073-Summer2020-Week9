@@ -30,7 +30,7 @@ function dealInfo(jsonObj){
     let image = document.createElement('img');  
 
     // STEP 10e: Set the textContent property for each of the above elements (except the UL), based on the JSON content
-    image.setAttribute('src', '/images/' + dealInfo[i].image);
+    image.setAttribute('src', '/go-go-grocery-application/images' + dealInfo[i].image);
     image.setAttribute('alt', dealInfo[i].item);
     description.textContent = dealInfo[i].item;
     price.textContent = dealInfo[i].price;
