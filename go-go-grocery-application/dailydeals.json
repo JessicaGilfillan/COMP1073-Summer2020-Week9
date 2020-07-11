@@ -15,5 +15,10 @@
 			"price": 1.99,
 			"image": "eggs.jpg"
 		}
+		{
+			"item": "spinach",
+			"price": 2.99,
+			"image": "eggs.jpg"
+		}
 	]
 }
